@@ -1,5 +1,5 @@
 function welcomeMsg() {
- return "Hello World - Login Page - Version 9"
+ return "Hello World - Login Page - Version 10"
 }
 
 console.log(welcomeMsg())
